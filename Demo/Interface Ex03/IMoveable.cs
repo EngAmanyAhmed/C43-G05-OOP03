@@ -10,7 +10,7 @@ namespace Demo.Interface_Ex03
     {
         int Speed { get; set; }
         void Forward();
-        void Backword();
+        void Backward();
         void Left();
         void Right();
     }

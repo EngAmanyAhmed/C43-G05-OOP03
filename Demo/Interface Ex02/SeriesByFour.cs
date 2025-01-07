@@ -15,11 +15,16 @@ namespace Demo.Interface_Ex02
             Current += 4;
         }
 
+        internal void Reset()
+        {
+            throw new NotImplementedException();
+        }
+
         //public void Reset()
         //{
         //    Current = 0;
         //}
 
-    
+
     }
 }
